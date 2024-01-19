@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "f3d3ab11-80de-4f2e-93a0-d059598bf98b": {
+      "ProjectGuid": "f3d3ab11-80de-4f2e-93a0-d059598bf98b",
+      "DisplayName": "Cherry",
+      "ColorIndex": 0
+    },
+    "50523bf4-3c9a-4b49-9ba0-0ef702eadda9": {
+      "ProjectGuid": "50523bf4-3c9a-4b49-9ba0-0ef702eadda9",
+      "DisplayName": "SandBox",
+      "ColorIndex": 1
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 2
+}
